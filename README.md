@@ -1,4 +1,4 @@
-# vue2-practice(vue2+expres+mysql)
+# vue2-practice(vue2+express+mysql)
 
 1.taobao.sql文件导入到本地数据库，server/config.js是数据库配置
 
