@@ -8,4 +8,4 @@
 
 # Practice-Preview
 
-![1686626821554](https://jsd.onmicrosoft.cn/gh/yumao-iu/Vue2-Practice/src/assets/images/banner1.jpg)
+<img src="https://jsd.onmicrosoft.cn/gh/yumao-iu/Vue2-Practice/src/assets/images/banner1.jpg">
